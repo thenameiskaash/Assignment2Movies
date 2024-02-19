@@ -1,0 +1,2 @@
+A simple code where user inputs 4 movies and all it's relevant information. 
+The output will give the details of the movie with a randomly generated rating and also prints out the title of the movie with the highest and lowest rating.

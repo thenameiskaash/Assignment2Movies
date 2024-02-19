@@ -20,7 +20,6 @@ class Movie {
     this.rating = rating;
   }
 
-
   // Declaring getter functions
 
   public String getTitle() {
@@ -50,8 +49,9 @@ class Movie {
   public int getRating() {
     return this.rating;
   }
-  
-  public void print(){
-    System.out.print("Title : " + title + " | Rating : " + rating + "\n");
+
+  public void print() {
+    System.out.print("Title : " + title + " | Year : " + year + " | Directors : " + director + " | Duration : "
+        + duration + " | Actors : " + actors + " | Rating : " + rating + "\n");
   }
 }
