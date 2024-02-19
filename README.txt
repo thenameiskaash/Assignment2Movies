@@ -1,2 +1,3 @@
-A simple code where user inputs 4 movies and all it's relevant information. 
-The output will give the details of the movie with a randomly generated rating and also prints out the title of the movie with the highest and lowest rating.
+A simple program that allows the user to input details for 4 movies, including the title, year, director, duration, actors, and genre. 
+The program will generate a random rating for each movie and prints the details of all movies given by the user.
+It also prints out the title of the movie with the highest and lowest rating.
